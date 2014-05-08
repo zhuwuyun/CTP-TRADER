@@ -1,0 +1,14 @@
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\CTP_TRADER.exe
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\CTP_TRADER.pdb
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\CTP.dll
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\CTP.pdb
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\bin\Debug\CTP.xml
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_Trader.csprojResolveAssemblyReference.cache
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_TRADER.DeepInstrumentView.resources
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_TRADER.MainForm.resources
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_TRADER.Properties.Resources.resources
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_Trader.csproj.GenerateResource.Cache
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_TRADER.exe
+C:\Users\Jolin\Desktop\CTPTRADER\CTP_Trader\obj\x86\Debug\CTP_TRADER.pdb

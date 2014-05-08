@@ -1,0 +1,38 @@
+﻿生成启动时间为 2014/5/8 16:00:05。
+     1>项目“C:\Users\Jolin\Desktop\CTPTRADER\CTP\CTP.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CTP.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\\" /AIC:\Windows\Microsoft.NET\Framework\v3.5\ /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\\" /AIC:\Windows\Microsoft.NET\Framework\v3.0\ /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D __CTP_MA__ /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\CTP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /doc"Debug\\" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /analyze- /errorReport:prompt Stdafx.cpp /d1clr:nostdlib 
+         Stdafx.cpp
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\\" /AIC:\Windows\Microsoft.NET\Framework\v3.5\ /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\\" /AIC:\Windows\Microsoft.NET\Framework\v3.0\ /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D __CTP_MA__ /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\CTP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /doc"Debug\\" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /analyze- /errorReport:prompt AssemblyInfo.cpp CTP.cpp CTPMDAdapter.cpp CTPTDAdapter.cpp MdSpi.cpp TdSpi.cpp Util.cpp /d1clr:nostdlib 
+         AssemblyInfo.cpp
+         CTP.cpp
+         CTPMDAdapter.cpp
+         CTPTDAdapter.cpp
+         MdSpi.cpp
+         TdSpi.cpp
+         Util.cpp
+         正在生成代码...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jolin\Desktop\CTPTRADER\Depand\CTP\CTP.dll" /INCREMENTAL /NOLOGO ..\Depand\CTP\thostmduserapi.lib ..\Depand\CTP\thosttraderapi.lib /MANIFEST /ManifestFile:"Debug\CTP.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jolin\Desktop\CTPTRADER\Depand\CTP\CTP.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\AssemblyInfo.obj
+         Debug\CTP.obj
+         Debug\CTPMDAdapter.obj
+         Debug\CTPTDAdapter.obj
+         Debug\MdSpi.obj
+         Debug\Stdafx.obj
+         Debug\TdSpi.obj
+         Debug\Util.obj
+         CTP.vcxproj -> C:\Users\Jolin\Desktop\CTPTRADER\Depand\CTP\CTP.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jolin\Desktop\CTPTRADER\Depand\CTP\CTP.dll;#2" /manifest Debug\CTP.dll.intermediate.manifest
+       XdcMake:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\xdcmake.exe /old "CTP" /nologo /Fo"C:\Users\Jolin\Desktop\CTPTRADER\Depand\CTP\CTP.xml" /FsDebug\AssemblyInfo.xdc /FsDebug\CTP.xdc /FsDebug\CTPMDAdapter.xdc /FsDebug\CTPTDAdapter.xdc /FsDebug\MdSpi.xdc /FsDebug\Stdafx.xdc /FsDebug\TdSpi.xdc /FsDebug\Util.xdc
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CTP.unsuccessfulbuild”。
+         正在对“Debug\CTP.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Jolin\Desktop\CTPTRADER\CTP\CTP.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:28.39

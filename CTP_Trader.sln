@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTP", "CTP\CTP.vcxproj", "{6167A3D8-388C-426A-A069-587FB77F887F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTP_Trader", "CTP_Trader\CTP_Trader.csproj", "{2149ABD7-E6C4-4050-ADDD-263A592767E1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6167A3D8-388C-426A-A069-587FB77F887F} = {6167A3D8-388C-426A-A069-587FB77F887F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|Win32.Build.0 = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|x64.ActiveCfg = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|x64.Build.0 = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|Win32.ActiveCfg = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|Win32.Build.0 = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|x64.ActiveCfg = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|x64.Build.0 = Release|Win32
+		{6167A3D8-388C-426A-A069-587FB77F887F}.Release|x86.ActiveCfg = Release|Win32
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|Win32.ActiveCfg = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|x64.ActiveCfg = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|x64.Build.0 = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|x86.ActiveCfg = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Debug|x86.Build.0 = Debug|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|Win32.ActiveCfg = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|x64.ActiveCfg = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|x64.Build.0 = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|x86.ActiveCfg = Release|x86
+		{2149ABD7-E6C4-4050-ADDD-263A592767E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
